@@ -1,0 +1,15 @@
+navimage{
+  height:100px;
+}
+.pointtable{
+font-size:12px;
+}
+.col-1,.col-2,.col-4{
+font-size:20px;
+}
+.no{
+ border-left:4px solid green;
+}
+.nod{
+ border-left:4px solid red;
+}
